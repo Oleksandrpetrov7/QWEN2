@@ -1,1 +1,1 @@
-# qwen2
+https://oleksandrpetrov7.github.io/qwen2/
